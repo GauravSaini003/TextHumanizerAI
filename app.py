@@ -154,4 +154,4 @@ demo = gr.Interface(
     description="Turn robotic-sounding AI text into something more natural, casual, and personal."
 )
 
-demo.launch()
+demo.launch(share=True)
